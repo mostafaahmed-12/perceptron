@@ -1,4 +1,4 @@
-# perceptron
+# perceptron Deep Learing
 single layer perceptron implementation in python
 Task 1 – Dataset (Penguins)
 The data set consists of 50 samples from each of three species of Penguins (Adelie, Gentoo and Chinstrap).  
